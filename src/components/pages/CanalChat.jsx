@@ -5,7 +5,7 @@ const CanalChat = () => {
     <div >
         <div className='container mt-3 text-center container-chat bg-secondary'>
         <div className='text-start'>
-          <span className='badge bg-primary'>Cliente</span>  
+          <span className='badge bg-primary'>Clientejojojo</span>  
         </div>
        
         <div className='text-end'>
